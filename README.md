@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv pathare</h1>
 <h3 align="center">A passionate Web Devloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpathare07&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpathare07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvpathare07" alt="dhruvpathare07" /></a> </p>
 
 - 🔭 I’m currently working on **GrievEase (Complaint Management System)**
 
